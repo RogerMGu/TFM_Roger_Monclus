@@ -1,7 +1,7 @@
 # TFM_Roger_Monclus
 Este repositorio contiene los archivos necesarios para ejecutar el proceso del Trabajo Final del Master en Big Data y Ciencia de Datos de la Universidad Internacional de Valencia.
 
-**EXPLICACIÓN DE LOS ARCHIVOS**
+## EXPLICACIÓN DE LOS ARCHIVOS
 
    - **07MBID Transparencias - 4 Aprendizaje supervisado.pdf** - Fichero PDF que contiene los apuntes de la asignatura de Machine Learning de la misma universidad.
 
@@ -19,7 +19,7 @@ Este repositorio contiene los archivos necesarios para ejecutar el proceso del T
 
    - **librerias usadas.txt** - Archivo de texto que indica las librerías necesarias para ejecutrar el cuaderno de python "TFM_Roger_Monclus.ipynb", con las versiones que he utilizado.
 
-**¿CÓMO EJECUTAR EL CUADERNO DE PYTHON?**
+## ¿CÓMO EJECUTAR EL CUADERNO DE PYTHON?
 
    1. Descargar los archivos en una misma carpeta.
    
